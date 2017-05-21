@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="java-base_main" target="1.8" />
+      <module name="java-base_test" target="1.8" />
+      <module name="java-demo_main" target="1.8" />
+      <module name="java-demo_test" target="1.8" />
+      <module name="java-web_main" target="1.8" />
+      <module name="java-web_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
